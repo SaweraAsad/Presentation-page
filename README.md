@@ -20,10 +20,10 @@ To practice structuring and styling a basic HTML/CSS project for web presentatio
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="images/screenshot1.png" width="45%" />
-  <img src="images/screenshot2.png" width="45%" />
+  <img src="images/Screenshot1.png" width="45%" />
+  <img src="images/Screenshot2.png" width="45%" />
 </p>
 <p align="center">
-  <img src="images/screenshot3.png" width="45%" />
-  <img src="images/screenshot4.png" width="45%" />
+  <img src="images/Screenshot3.png" width="45%" />
+  <img src="images/Screenshot4.png" width="45%" />
 </p>
