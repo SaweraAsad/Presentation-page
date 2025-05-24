@@ -18,8 +18,12 @@ It was created as a part of my frontend course to practice layout and design.
 ## 🎯 Purpose
 To practice structuring and styling a basic HTML/CSS project for web presentation.
 
-## 📸 Screenshot (Optional)
-![Screenshot](images/Screenshot 2025-05-24 181255.png)
-![Screenshot](images/Screenshot 2025-05-24 181322.png)
-![Screenshot](images/Screenshot 2025-05-24 181355.png)
-![Screenshot](images/Screenshot 2025-05-24 181415.png)
+## 📸 Screenshot
+<p align="center">
+  <img src="images/screenshot1.png" width="45%" />
+  <img src="images/screenshot2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="images/screenshot3.png" width="45%" />
+  <img src="images/screenshot4.png" width="45%" />
+</p>
